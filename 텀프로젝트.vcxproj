@@ -139,7 +139,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="blackholl.cc" />
+    <ClCompile Include="effect.cc" />
     <ClCompile Include="orbtxl.cc" />
+    <ClCompile Include="draw.cc" />
+    <ClCompile Include="planet.cc" />
+    <ClCompile Include="shockwave.cc" />
+    <ClCompile Include="space.cc" />
+    <ClCompile Include="variables.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="blackholl.h" />
+    <ClInclude Include="draw.h" />
+    <ClInclude Include="effect.h" />
+    <ClInclude Include="planet.h" />
+    <ClInclude Include="shockwave.h" />
+    <ClInclude Include="space.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

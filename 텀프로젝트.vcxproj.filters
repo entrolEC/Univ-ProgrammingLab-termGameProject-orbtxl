@@ -18,5 +18,46 @@
     <ClCompile Include="orbtxl.cc">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="draw.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="space.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variables.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="shockwave.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="blackholl.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="planet.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="draw.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="space.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="planet.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="blackholl.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="shockwave.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
